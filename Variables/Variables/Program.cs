@@ -6,7 +6,7 @@ namespace Variables
     {
         static void Main(string[] args)
         {
-            Milestone2();
+            Milestone3();
 
         }
         static void Milestone1()
@@ -77,6 +77,24 @@ namespace Variables
             Console.WriteLine(int1);
             Console.WriteLine(float1);
             Console.WriteLine(string1);
+        }
+        static void Milestone3()
+        {
+            int[] e = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
+            int auxiliar = 0;
+            int pos = e.Length - 1;
+            for (int i = 0; i < e.Length / 2; i++)
+            {
+                auxiliar = e[pos];
+                e[pos] = e[i];
+                e[i] = auxiliar;
+                pos--;
+            }
+            for (int i = 0; i < e.Length; i++)
+            {
+                Console.WriteLine(e[i]);
+            }
+
         }
         
     }
