@@ -22,10 +22,27 @@ namespace Variables
 
             int anysTraspasats = 0;
 
-            for (int i = traspas; i < any; i += anysTraspas)
+            string frase1 = "Es any de traspas!";
+            string frase2 = "No es any de traspas";
+            bool naixementTraspas = false;
+
+            for (int i = traspas; i <= any; i += anysTraspas)
             {
                 anysTraspasats++;
+                if (i == any)
+                {
+                    naixementTraspas = true;
+                }
             }
+            if (naixementTraspas)
+            {
+                Console.WriteLine(frase1);
+            }
+            else
+            {
+                Console.WriteLine(frase2);
+            }
+
             Console.WriteLine("Anys de traspas: {0}", anysTraspasats);
         }
     }
