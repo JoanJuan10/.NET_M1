@@ -1,0 +1,13 @@
+C:\Users\Joan\source\repos\JoanJuan10\.NET_M1\Variables\Variables\bin\Debug\netcoreapp3.1\Variables.exe
+C:\Users\Joan\source\repos\JoanJuan10\.NET_M1\Variables\Variables\bin\Debug\netcoreapp3.1\Variables.deps.json
+C:\Users\Joan\source\repos\JoanJuan10\.NET_M1\Variables\Variables\bin\Debug\netcoreapp3.1\Variables.runtimeconfig.json
+C:\Users\Joan\source\repos\JoanJuan10\.NET_M1\Variables\Variables\bin\Debug\netcoreapp3.1\Variables.runtimeconfig.dev.json
+C:\Users\Joan\source\repos\JoanJuan10\.NET_M1\Variables\Variables\bin\Debug\netcoreapp3.1\Variables.dll
+C:\Users\Joan\source\repos\JoanJuan10\.NET_M1\Variables\Variables\bin\Debug\netcoreapp3.1\Variables.pdb
+C:\Users\Joan\source\repos\JoanJuan10\.NET_M1\Variables\Variables\obj\Debug\netcoreapp3.1\Variables.csprojAssemblyReference.cache
+C:\Users\Joan\source\repos\JoanJuan10\.NET_M1\Variables\Variables\obj\Debug\netcoreapp3.1\Variables.AssemblyInfoInputs.cache
+C:\Users\Joan\source\repos\JoanJuan10\.NET_M1\Variables\Variables\obj\Debug\netcoreapp3.1\Variables.AssemblyInfo.cs
+C:\Users\Joan\source\repos\JoanJuan10\.NET_M1\Variables\Variables\obj\Debug\netcoreapp3.1\Variables.csproj.CoreCompileInputs.cache
+C:\Users\Joan\source\repos\JoanJuan10\.NET_M1\Variables\Variables\obj\Debug\netcoreapp3.1\Variables.dll
+C:\Users\Joan\source\repos\JoanJuan10\.NET_M1\Variables\Variables\obj\Debug\netcoreapp3.1\Variables.pdb
+C:\Users\Joan\source\repos\JoanJuan10\.NET_M1\Variables\Variables\obj\Debug\netcoreapp3.1\Variables.genruntimeconfig.cache
