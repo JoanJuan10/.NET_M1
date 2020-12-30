@@ -77,9 +77,6 @@ namespace Variables
             Console.WriteLine(int1);
             Console.WriteLine(float1);
             Console.WriteLine(string1);
-
-
-
         }
         
     }
