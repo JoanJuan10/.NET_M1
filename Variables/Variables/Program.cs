@@ -42,8 +42,22 @@ namespace Variables
             {
                 Console.WriteLine(frase2);
             }
-
             Console.WriteLine("Anys de traspas: {0}", anysTraspasats);
+
+            string nomComplet = nom + " " + cognom1 + " " + cognom2;
+            string anyNaixement = dia + "/" + mes + "/" + any;
+
+            Console.WriteLine("El meu nom es {0}", nomComplet);
+            Console.WriteLine("Vaig neixer el {0}", anyNaixement);
+            if (naixementTraspas)
+            {
+                Console.WriteLine("El meu any de naixement es de traspas");
+            }
+            else
+            {
+                Console.WriteLine("El meu any de naixement no es de traspas");
+            }
         }
+        
     }
 }
