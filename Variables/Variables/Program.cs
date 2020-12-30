@@ -6,6 +6,11 @@ namespace Variables
     {
         static void Main(string[] args)
         {
+            Milestone2();
+
+        }
+        static void Milestone1()
+        {
             const int traspas = 1948;
             int anysTraspas = 4;
 
@@ -57,6 +62,24 @@ namespace Variables
             {
                 Console.WriteLine("El meu any de naixement no es de traspas");
             }
+        }
+        static void Milestone2()
+        {
+            double var1 = 5.2761;
+            int int1;
+            float float1;
+            string string1;
+
+            int1 = (int)var1;
+            float1 = (float)var1;
+            string1 = Convert.ToString(var1);
+
+            Console.WriteLine(int1);
+            Console.WriteLine(float1);
+            Console.WriteLine(string1);
+
+
+
         }
         
     }
